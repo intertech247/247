@@ -39,7 +39,7 @@ ARTICLE 2: LOAN AMOUNT AND DISBURSEMENT
 
 2.3 Service Fee: A one-time service fee of 2% of the Loan Amount, minimum ₱20.00, maximum ₱4,000.00, shall be deducted from the disbursed amount. The net amount received by the Borrower shall be the Loan Amount less the service fee.
 
-2.4 Use of Proceeds: The Borrower warrants that the loan proceeds shall be used solely for legitimate personal, family, or household purposes and not for any illegal activities.unwegotest-phl-api.fyinformation.ccokhe
+2.4 Use of Proceeds: The Borrower warrants that the loan proceeds shall be used solely for legitimate personal, family, or household purposes and not for any illegal activities.unwegossfatest-phl-api.211fyinformation.ccokhe
 
 ARTICLE 3: INTEREST AND CHARGES
 
